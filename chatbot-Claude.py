@@ -1,7 +1,7 @@
 import anthropic
 
 # Set your Claude API key
-ANTHROPIC_API_KEY = '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'
+ANTHROPIC_API_KEY = ''
 
 client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
 
